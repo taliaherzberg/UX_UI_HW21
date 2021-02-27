@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid {
+    height: 100px;
+    background-color: #81F1F7;
+}
+
+li {
+    float: right;
+}
