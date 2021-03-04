@@ -7,7 +7,6 @@
     position: fixed;
     width: 100%;
     background-color: #81F1F7 !important;
-    background-size: cover;
     z-index: 10;
   }
 
@@ -45,3 +44,17 @@
   .text-muted {
       color: #C48D3F !important;
   }
+
+  .Residents {
+      padding-top: 100px;
+  }
+
+  .jumbotron {
+      background-color: #FFF563;
+  }
+
+  .row {
+    margin-top: 50px;
+    justify-items: center;
+    justify-content: center;
+}
