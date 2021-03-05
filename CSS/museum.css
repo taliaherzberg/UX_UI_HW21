@@ -45,3 +45,17 @@
   .text-muted {
       color: #C48D3F !important;
   }
+
+  .Residents {
+    padding-top: 100px;
+}
+
+.jumbotron {
+    background-color: #FFF563;
+}
+
+.row {
+  margin-top: 50px;
+  justify-items: center;
+  justify-content: center;
+}
