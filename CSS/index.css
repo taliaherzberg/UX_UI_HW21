@@ -31,6 +31,17 @@
       text-decoration: underline;
   }
 
+  .dropdown-menu {
+    background: url("../images/transparency.png");
+    background-color: transparent !important;
+    background-size: cover;
+  }
+  .dropdown-item:focus, .dropdown-item:hover {
+      color: #16181b;
+      text-decoration: none;
+      background: black;
+  }
+
   .carousel {
       padding-top: 100px;
   }
