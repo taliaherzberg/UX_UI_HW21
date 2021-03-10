@@ -23,6 +23,10 @@
       color: #C48D3F !important;
   }
 
+  .inactive:hover {
+    color: #745325 !important;
+}
+
   .active {
       text-decoration: underline;
   }
